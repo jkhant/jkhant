@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jkhant
-- 👀 I’m currently working on
+## 👋 Hi, I’m @jkhant
+
+### 👀 I’m currently working on
   
 
 
