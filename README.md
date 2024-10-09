@@ -1,10 +1,7 @@
 ## 👋 Hi, I’m @jkhant
 
-### 👀 I’m currently working on
-  
+## 🚀 Current Projects
 
-
-<!---
-jkhant/jkhant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 1. **MyanEats** - A Food Delivery App
+A food delivery app focused on connecting users with local Burmese cuisine.
+- [GitHub Repository](https://github.com/jkhant/myaneats)
